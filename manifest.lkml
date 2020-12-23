@@ -1,10 +1,9 @@
 project_name: "import_pieter"
 
 local_dependency: {
-  project: "test_pieter"
+  project: "testpieter"
 }
 
-constant: override_me {}
 
 # # Use local_dependency: To enable referencing of another project
 # # on this instance with include: statements
